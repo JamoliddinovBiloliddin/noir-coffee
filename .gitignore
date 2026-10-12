@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.temp/
+*.log
+.DS_Store
+public/animations/[0-9]*/frame_*.webp
+artifacts/
+test-results/
+playwright-report/
+.env
+.env.*
+!.env.example
+.vercel/
+*.zip
+*.mp4
+Thumbs.db

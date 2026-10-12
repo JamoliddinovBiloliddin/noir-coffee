@@ -1,0 +1,13 @@
+node_modules
+dist
+artifacts
+test-results
+playwright-report
+.git
+.temp
+.env*
+*.zip
+*.mp4
+public/animations/0*
+public/animations/10_*
+public/animations/PUT_YOUR_FRAME_FOLDERS_HERE.txt

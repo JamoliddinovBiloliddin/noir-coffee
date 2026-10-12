@@ -1,0 +1,1 @@
+Copy the ten frame folders 01 through 10 here. Each folder should contain 240 sequential WebP images.
